@@ -1,0 +1,39 @@
+.movie-heading{
+	font-size: 45px;
+}
+
+.movie-div{
+	border-bottom: solid orangered 5px;
+	border-top: solid orangered 5px;
+	background-color: powderblue;
+}
+
+.movie-image{
+	height: 300px;
+	width: 200px;
+	border-radius: 10px;
+}
+
+.movie-subheading{
+	text-transform: uppercase;
+	color: blue;
+}
+
+.movie-paragraph{
+	border: 0px;
+	margin: 5px;
+}
+
+.movie-list{
+	list-style-type: none;
+	padding: 0px;
+}
+
+.movie-bottom{
+	text-align: center;
+	background-color: lightgreen;
+}
+.movie-link{
+	background-color: lightgoldenrodyellow;
+	text-decoration: none;
+}

@@ -1,0 +1,48 @@
+/* CSS FOR IMAGE ABOUT YOU */
+.sidebar-my-image {
+    border-radius: 50%;
+    display: block;
+    margin: auto;
+    height: 150px;
+    width: 150px;
+}
+
+.sidebar-name{
+    text-align: center;
+}
+
+.sidebar-CTS-paragraph{
+    color: blue;
+}
+
+.sidebar-CTS-image{
+    height: 150px;
+    width: 190px;
+}
+
+.sidebar-link{
+    background-color: orangered;
+}
+
+.sidebar-HarryStyles{
+    color: cornflowerblue;
+}
+
+.sidebar-albums{
+    border-radius: 6px;
+    height: 87px;
+    width: 87px;
+}
+
+.sidebar-tags{
+    display: inline-block;
+    background-color: lightcoral;
+    margin: 5px;
+    border: 1px solid;
+    padding: 5px;
+}
+
+.sidebar-subheading{
+    text-transform: uppercase;
+    color: indianred;
+}

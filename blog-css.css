@@ -1,0 +1,78 @@
+a{
+	color: purple;
+}
+
+#link-brown{
+	color: brown;
+}
+
+.link-orange{
+	color: orange;
+	font-size: 50px; 
+}
+
+.text-bigger{
+	font-weight: bold;
+	font-size: 24px;
+}
+
+.custom-text{
+	font-size: 24px;
+	font-weight: bold;
+	color: purple;
+	text-transform: uppercase;
+}
+
+.custom-link{
+	text-decoration: none;
+	color: pink;
+}
+
+.link1{
+	color: blueviolet;
+	text-decoration: none;
+	font-size: 24px;
+}
+
+.link2{
+	color: hotpink;
+	background-color: black;
+}
+
+.custom-background{
+	background-color: seagreen;
+}
+
+.custom-list{
+	list-style-type: none;
+	padding: 0px;
+}
+
+.custom-border{
+	border: 1px solid midnightblue;
+}
+
+.another-border{
+	border-left: 5px solid indianred;
+	border-right: 5px solid indianred;
+}
+
+.custom-margin{
+	margin: 100px;
+}
+
+.side-margin{
+	margin-top: 20px;
+	margin-left: 20px;
+}
+
+.custom-padding{
+	padding: 50px;
+}
+
+.custom-image{
+	height: 200px;
+	width: 200px;
+}
+
+
